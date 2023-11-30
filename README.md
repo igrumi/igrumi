@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igrumi
-- 👀 I’m interested in videogames, anime, music, sneakers
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on html coding
+- 👀 I’m interested in programming, videogames and music
+- 🌱 I’m currently learning coding in general, a bit more oriented to Data Analysis with Python.
+- 💞️ I’m looking to collaborate on any software or app.
 - 📫 How to reach me ignacio.grumi@gmail.com
 
 <!---
